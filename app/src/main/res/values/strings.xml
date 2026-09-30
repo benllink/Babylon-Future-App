@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">بابليون المستقبل</string>
+    <string name="server_settings">إعدادات السيرفر</string>
+    <string name="server_url_hint">http://192.168.1.10:5000</string>
+    <string name="save">حفظ</string>
+    <string name="cancel">إلغاء</string>
+</resources>
